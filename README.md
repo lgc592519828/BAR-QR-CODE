@@ -19,4 +19,4 @@
 + 提供链接：
 1. barcode4j官方文档 : [http://barcode4j.sourceforge.net/trunk/javadocs/index.html](http://barcode4j.sourceforge.net/trunk/javadocs/index.html)
 2. 一维条码类型(根据需求选择合适项目的就好)
-![](https://github.com/lgc592519828/BAR-QR-CODE/blob/master/src/main/java/cn/gcheng/images/barcodeType.png)
+![barcodeType](https://github.com/lgc592519828/BAR-QR-CODE/blob/master/src/main/java/cn/gcheng/images/barcodeType.png)
