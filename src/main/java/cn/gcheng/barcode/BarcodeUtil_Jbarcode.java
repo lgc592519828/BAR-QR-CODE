@@ -79,12 +79,6 @@ public class BarcodeUtil_Jbarcode {
         fos.close();
     }
 
-    public static void main(String[] args) throws Exception {
-        String msg = "20190325191400";
-        String path = "E:\\barcode\\Jbarcode16.png";
-        createBarcodeForRemark(msg, new File(path), "", "该条码作用于A检测设备,该条码作用于A检测设备,该条码作用于A检测设备,重要的话说三遍!");
-    }
-
     public static void createBarcodeForRemark(String msg, File file, String text, String textMessage) throws Exception {
         FileOutputStream fos = new FileOutputStream(file);
         createBarcodeForRemark(msg, fos, text ,textMessage);
@@ -175,6 +169,7 @@ public class BarcodeUtil_Jbarcode {
             ex.printStackTrace();
         }
     }
+    
     /**
      * 静态内部类 自定义的TextPainter,允许定义字体大小、文本等
      * 参考底层实现：BaseLineTextPainter.getInstance()
@@ -207,9 +202,5 @@ public class BarcodeUtil_Jbarcode {
             // 绘制条形码
             g2d.drawString(text, center, image.getHeight() - (height / 10) - 2);
         }
-
     }
-
-
-
 }
