@@ -26,7 +26,7 @@
       <scope>test</scope>
     </dependency>
 
-
+    <!-- barcode4j -->
     <dependency>
       <groupId>net.sf.barcode4j</groupId>
       <artifactId>barcode4j</artifactId>

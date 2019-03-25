@@ -30,9 +30,9 @@ public class BarcodeUtil_barcode4j {
 
             // 如果想要其他类型的条码(CODE 39, EAN-8...)直接获取相关对象Code39Bean...等等
             Code128Bean bean = new Code128Bean();
-            // 分辨率
+            // 分辨率：值越大条码越长，分辨率越高。
             int dpi = 150;
-            // 设置两侧是否留白
+            // 设置两侧是否加空白
             bean.doQuietZone(true);
             // 设置条码每一条的宽度
             // UnitConv 是barcode4j 提供的单位转换的实体类，用于毫米mm,像素px,英寸in,点pt之间的转换
