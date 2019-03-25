@@ -89,12 +89,4 @@ public class BarcodeUtil_barcode4j {
         return ous.toByteArray();
     }
 
-
-    public static void main(String[] args) {
-        String msg = "20190323191400";
-        String path = "E:\\barcode\\barcode10.png";
-        boolean b = false;
-        generateFile(msg, b, path);
-    }
-
 }
