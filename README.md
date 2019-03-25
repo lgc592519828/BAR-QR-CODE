@@ -19,7 +19,7 @@
 ```
 + 由于没有找到相关Jbarcode pom配置, 手动加进仓库。  
 这里提供jar
-
+[jbarcode-0.2.8.jar](https://github.com/lgc592519828/BAR-QR-CODE/blob/master/jbarcode-0.2.8.jar)
 ---
 **效果图**
 
