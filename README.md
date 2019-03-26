@@ -39,7 +39,9 @@
 
   
 ---
-+ 提供链接：
++ 提供链接：  
 1. barcode4j官方文档 : [http://barcode4j.sourceforge.net/trunk/javadocs/index.html](http://barcode4j.sourceforge.net/trunk/javadocs/index.html)
-2. 一维条码类型(根据需求选择合适项目的就好)
+2. 基于barcode4j生成条码工具blog：[https://blog.csdn.net/lgc592519828/article/details/88805976](https://blog.csdn.net/lgc592519828/article/details/88805976)
+
+3. 一维条码类型(根据需求选择合适项目的就好)
 ![barcodeType](https://github.com/lgc592519828/BAR-QR-CODE/blob/master/src/main/java/cn/gcheng/images/barcodeType.png)
