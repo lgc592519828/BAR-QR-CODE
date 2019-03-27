@@ -40,6 +40,7 @@
   
 ---
 + 提供链接：  
+
 1. barcode4j官方文档 : [http://barcode4j.sourceforge.net/trunk/javadocs/index.html](http://barcode4j.sourceforge.net/trunk/javadocs/index.html)
 2. 基于barcode4j生成条码工具blog：[https://blog.csdn.net/lgc592519828/article/details/88805976](https://blog.csdn.net/lgc592519828/article/details/88805976)
 
