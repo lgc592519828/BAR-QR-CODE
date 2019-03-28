@@ -101,8 +101,6 @@ public class BarcodeUtil_Jbarcode {
             // 创建条形码的BufferedImage图像
             BufferedImage image = getJbarcode().createBarcode(msg);
             ImageUtil.encodeAndWrite(image, ImageUtil.PNG, os, BARCODE_DPI, BARCODE_DPI);
-            System.out.println(image.getHeight());
-            System.out.println(image.getWidth());
             os.flush();
         } catch (Exception ex) {
             ex.printStackTrace();
