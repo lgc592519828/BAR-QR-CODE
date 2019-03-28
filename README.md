@@ -1,10 +1,13 @@
 # BAR-QR-CODE
 **生成一维条码、二维码工具**
 
+* 2019.03.28新增：Jbarcode CSDN bolg实现及讲解，并为提供添加备注的解决方案
 
-* 2019.03.25添加：提供生成一维条码工具类，基于Jbarcode开源库
+* 2019.03.27新增：barcode4j CSDN blog实现及讲解
 
-* 2019.03.23添加：提供生成一维条码工具类，基于barcode4j开源类库
+* 2019.03.25新增：提供生成一维条码工具类，基于Jbarcode开源库
+
+* 2019.03.23新增：提供生成一维条码工具类，基于barcode4j开源类库
 
 
 
@@ -42,7 +45,10 @@
 + 提供链接：  
 
 1. barcode4j官方文档 : [http://barcode4j.sourceforge.net/trunk/javadocs/index.html](http://barcode4j.sourceforge.net/trunk/javadocs/index.html)
+
 2. 基于barcode4j生成条码工具blog：[https://blog.csdn.net/lgc592519828/article/details/88805976](https://blog.csdn.net/lgc592519828/article/details/88805976)
 
-3. 一维条码类型(根据需求选择合适项目的就好)
+3. 基于Jbarcode生成条码工具blog：[https://blog.csdn.net/lgc592519828/article/details/88874274](https://blog.csdn.net/lgc592519828/article/details/88874274)
+
+4. 一维条码类型(根据需求选择合适项目的就好)
 ![barcodeType](https://github.com/lgc592519828/BAR-QR-CODE/blob/master/src/main/java/cn/gcheng/images/barcodeType.png)
